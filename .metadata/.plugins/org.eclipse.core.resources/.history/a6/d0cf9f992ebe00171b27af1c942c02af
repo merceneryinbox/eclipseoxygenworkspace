@@ -1,0 +1,28 @@
+/**
+ * 
+ */
+package rw;
+
+/**
+ * @author mercenery
+ *
+ */
+public class IOByteReadWrite {
+
+    /**
+     * 
+     */
+    public IOByteReadWrite() {
+	// TODO Auto-generated constructor stub
+    }
+
+    /**
+     * @param args
+     */
+    public static void main(String[] args) {
+	// TODO Auto-generated method stub
+
+    }
+
+    
+}

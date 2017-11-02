@@ -1,0 +1,32 @@
+/**
+ * 
+ */
+package rw;
+
+import java.io.FileInputStream;
+import java.io.FilterInputStream;
+
+/**
+ * @author mercenery
+ *
+ */
+public class IOByteReadWrite {
+    private static FilterInputStream filterInputStream;
+    private static FileInputStream fileInputStream;
+    private static String javaFile = "\\src\\IOByteReadWrite.java";
+
+    /**
+     * 
+     */
+    public IOByteReadWrite() {
+	// TODO Auto-generated constructor stub
+    }
+
+    /**
+     * @param args
+     */
+    public static void main(String[] args) {
+
+    }
+
+}

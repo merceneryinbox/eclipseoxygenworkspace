@@ -1,0 +1,47 @@
+/**
+ * 
+ */
+package rw;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.InputStream;
+import java.io.OutputStream;
+
+/**
+ * @author mercenery
+ *
+ */
+public class IOByteReadWrite {
+    private static String javaFile = "\\src\\IOByteReadWrite.java";
+
+    /**
+     * 
+     */
+    public IOByteReadWrite() {
+	// TODO Auto-generated constructor stub
+    }
+
+    /**
+     * @param args
+     */
+    public static void main(String[] args) {
+	try (InputStream inputStream = new FileInputStream(javaFile);
+	     OutputStream outputStream = new FileOutputStream(javaFile + ".txt")) {
+	    byte[] bs = new byte[inputStream.available()];
+	    int r;
+	    int counter = 0;
+	    while ((r = inputStream.read()) > 0) {
+		bs[counter++] = (byte) r;
+	    }
+
+	    for (int i = 0; i < bs.length; i++) {
+		System.out.println(bs[i]);
+	    }
+
+	} catch (Exception e) {
+	    e.printStackTrace();
+	}
+    }
+
+}

@@ -1,0 +1,27 @@
+package epamLecturesTest;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStream;
+
+public class MainLectureTestEpam {
+    String fileName;
+
+    public MainLectureTestEpam() {
+	fileName = this.getClass().getResource("MainLectureTestEpam.java").toString();
+    }
+
+    public static void main(String[] args) {
+	String fileName = "epamLecturesTest/MainLectureTestEpam.java";
+
+	try (InputStream iStream = new FileInputStream(fileName)) {
+	    System.out.println(iStream.toString());
+	} catch (FileNotFoundException e) {
+	    e.printStackTrace();
+	} catch (IOException e1) {
+	    e1.printStackTrace();
+	}
+    }
+
+}

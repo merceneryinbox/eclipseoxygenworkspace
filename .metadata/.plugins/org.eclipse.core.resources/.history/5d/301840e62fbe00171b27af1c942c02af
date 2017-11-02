@@ -1,0 +1,38 @@
+/**
+ * 
+ */
+package rw;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.FilterInputStream;
+import java.io.InputStream;
+import java.io.OutputStream;
+
+/**
+ * @author mercenery
+ *
+ */
+public class IOByteReadWrite {
+    private static String javaFile = "\\src\\IOByteReadWrite.java";
+
+    /**
+     * 
+     */
+    public IOByteReadWrite() {
+	// TODO Auto-generated constructor stub
+    }
+
+    /**
+     * @param args
+     */
+    public static void main(String[] args) {
+	try (InputStream inputStream =new FileInputStream(javaFile);
+		OutputStream outputStream = new FileOutputStream(javaFile+".txt")){
+	    
+	} catch (Exception e) {
+	    // TODO: handle exception
+	}
+    }
+
+}

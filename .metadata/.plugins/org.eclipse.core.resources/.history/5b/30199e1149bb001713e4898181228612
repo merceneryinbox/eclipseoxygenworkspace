@@ -1,0 +1,12 @@
+package epamLecturesTest;
+
+import java.io.File;
+
+public class MainLectureTestEpam {
+
+    public static void main(String[] args) {
+	String fileName = "MainLectureTestEpam.java";
+	File file = new File(fileName);
+    }
+
+}

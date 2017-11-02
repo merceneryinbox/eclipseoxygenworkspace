@@ -1,0 +1,59 @@
+/**
+ * 
+ */
+package rw;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.InputStream;
+import java.io.OutputStream;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+
+/**
+ * @author mercenery
+ *
+ */
+public class IOByteReadWrite {
+    private static String javaFile = "./src/rw/IOByteReadWrite.java";
+
+    /**
+     * 
+     */
+    public IOByteReadWrite() {
+	// TODO Auto-generated constructor stub
+    }
+
+    /**
+     * @param args
+     */
+    public static void main(String[] args) {
+	Path path = Paths.get("javaFile.txt");
+	File file = path.toFile();
+	try (InputStream inputStream = new FileInputStream(javaFile);
+	     OutputStream outputStream = new FileOutputStream(file)) {
+	    byte[] bs = new byte[inputStream.available()];
+	    int r;
+	    int counter = 0;
+	    while ((r = inputStream.read()) > 0) {
+		bs[counter++] = (byte) r;
+	    }
+
+	    for (int i = 0; i < bs.length; i++) {
+		System.out.println(bs[i]);
+	    }
+
+	    System.out.println(new String(bs, StandardCharsets.UTF_8) + "\n" + " размер байтового массива = "
+			       + bs.length + " байт.");
+
+	    outputStream.write(bs, 0, bs.length);
+	    outputStream.flush();
+
+	} catch (Exception e) {
+	    e.printStackTrace();
+	}
+    }
+
+}

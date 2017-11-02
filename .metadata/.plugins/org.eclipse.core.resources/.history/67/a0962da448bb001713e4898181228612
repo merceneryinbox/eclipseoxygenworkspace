@@ -1,0 +1,9 @@
+package epamLecturesTest;
+
+public class MainLectureTestEpam {
+
+    public static void main(String[] args) {
+
+    }
+
+}
