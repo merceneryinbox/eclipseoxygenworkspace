@@ -1,0 +1,27 @@
+
+q
+squid:S106."9Replace this use of System.out or System.err by a logger.(›ÿ¾Šûÿÿÿÿ8ù¤âÌú+HÃRMAJORZ
+CODE_SMELL
+l
+squid:S106-"9Replace this use of System.out or System.err by a logger.(‘Âù–8ù¤âÌú+HÄRMAJORZ
+CODE_SMELL
+¡"squid:ClassVariableVisibilityCheck"UMake className a static final constant or non-public and provide accessors if needed.(Öõæ®ùÿÿÿÿHÅRMINORZVULNERABILITY
+e
+squid:S106)"9Replace this use of System.out or System.err by a logger.(²´¹§HÆRMAJORZ
+CODE_SMELL
+q
+squid:S106/"9Replace this use of System.out or System.err by a logger.(‹ÛŠéûÿÿÿÿ8ù¤âÌú+HÇRMAJORZ
+CODE_SMELL
+Qsquid:S3010"&Remove this assignment of "className".(Â°ÜÖüÿÿÿÿHÈRMAJORZBUG
+q
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ìÔöüùÿÿÿÿ8ù¤âÌú+HÉRMAJORZ
+CODE_SMELL
+e
+squid:S106+"9Replace this use of System.out or System.err by a logger.(‡’‚†HÊRMAJORZ
+CODE_SMELL
+j
+squid:S106*"9Replace this use of System.out or System.err by a logger.(êƒÀæúÿÿÿÿHËRMAJORZ
+CODE_SMELL
+dsquid:S1444"/Make this "public static className" field final(Öõæ®ùÿÿÿÿHÌRMINORZVULNERABILITY
+Gsquid:S1220""Move this file to a named package.HÍRMINORZ
+CODE_SMELL

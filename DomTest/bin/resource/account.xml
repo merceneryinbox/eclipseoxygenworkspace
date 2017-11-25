@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<accounts>
+
+    <user>
+        <name>user1</name>
+        <balance>100</balance>
+    </user>
+
+    <user>
+        <name>user2</name>
+        <balance>200</balance>
+    </user>
+
+</accounts>

@@ -1,0 +1,10 @@
+
+Œsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Šıò®8ÒÉœ¥ü+Hü
+RMINORZ
+CODE_SMELL
+wsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ8­•–¥ü+Hı
+RMINORZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(”øêè8­•–¥ü+Hş
+RMINORZ
+CODE_SMELL

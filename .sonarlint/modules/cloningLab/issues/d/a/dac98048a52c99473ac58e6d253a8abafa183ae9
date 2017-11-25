@@ -1,0 +1,31 @@
+
+nsquid:S2209"5Change this instance-reference to a static reference.(ßû’”øÿÿÿÿ8Ùø¤ƒş+H«RMAJORZ
+CODE_SMELL
+nsquid:S2209"5Change this instance-reference to a static reference.(œ‹¡Âøÿÿÿÿ8ÒÖÄƒş+HÊRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªš¹·8Ùø¤ƒş+H©RMAJORZ
+CODE_SMELL
+isquid:S2209"5Change this instance-reference to a static reference.(Ìóœı8Ùø¤ƒş+HªRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıà”ñùÿÿÿÿ8Ùø¤ƒş+H¦RMAJORZ
+CODE_SMELL
+nsquid:S2209"5Change this instance-reference to a static reference.(ìâõèúÿÿÿÿ8ÒÖÄƒş+HÉRMAJORZ
+CODE_SMELL
+nsquid:S2209"5Change this instance-reference to a static reference.(ıà”ñùÿÿÿÿ8ÒÖÄƒş+HÆRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(µ óå8Ùø¤ƒş+H§RMAJORZ
+CODE_SMELL
+isquid:S2209"5Change this instance-reference to a static reference.(µ óå8ÒÖÄƒş+HÇRMAJORZ
+CODE_SMELL
+nsquid:S2209"5Change this instance-reference to a static reference.(ıà”ñùÿÿÿÿ8ÒÖÄƒş+HÅRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹ÛòÁ8Ùø¤ƒş+H¨RMAJORZ
+CODE_SMELL
+isquid:S2209"5Change this instance-reference to a static reference.(µ óå8ÒÖÄƒş+HÈRMAJORZ
+CODE_SMELL
+‘squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÿœ‚Êıÿÿÿÿ8Ùø¤ƒş+H¬RMINORZ
+CODE_SMELL

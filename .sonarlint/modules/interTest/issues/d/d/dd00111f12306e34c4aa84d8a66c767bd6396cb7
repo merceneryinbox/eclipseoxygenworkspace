@@ -1,0 +1,12 @@
+
+Дsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(©сгQHЧRMINORZ
+CODE_SMELL
+hsquid:S1444"1Make this "public static givenNumber" field final(ёт—÷8ч“сню+HЩRMINORZVULNERABILITY
+asquid:S1481"-Remove this unused "numOrder" local variable.(РЁв§8ч“сню+HЪRMINORZ
+CODE_SMELL
+psquid:S1854"<Remove this useless assignment to local variable "numOrder".(РЁв§8ч“сню+HЫRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ЄрхЎ8№Ыљню+HЬRMAJORZ
+CODE_SMELL
+•"squid:ClassVariableVisibilityCheck"WMake givenNumber a static final constant or non-public and provide accessors if needed.(ёт—÷8ч“сню+HЭRMINORZVULNERABILITY

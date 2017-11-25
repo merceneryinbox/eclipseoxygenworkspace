@@ -52,7 +52,13 @@ public class MainLectureTestEpam {
 
 	    String tString = new String(chAr, 0, chAr.length);
 
-	    System.out.println(tString);
+	    // System.out.println(tString);
+
+	    String[] strings = tString.split("\\n+|\\s+|\\t+|^[a-zA-Z]|^[0-9]");
+
+	    for (String string : strings) {
+		System.out.println(string);
+	    }
 
 	} catch (FileNotFoundException e) {
 	    // TODO Auto-generated catch block

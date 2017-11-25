@@ -1,0 +1,33 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ª³„Æ8®à¬Ÿü+Hô	RMAJORZ
+CODE_SMELL
+l
+squid:S1060"9Replace this use of System.out or System.err by a logger.(‡É»á8—‹ü+HÕ	RMAJORZ
+CODE_SMELL
+l
+squid:S106&"9Replace this use of System.out or System.err by a logger.(Œ€ÿ8ô·£ ü+H÷	RMAJORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.H¸RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Æç´½ûÿÿÿÿ8‰¾üŸü+Hõ	RMAJORZ
+CODE_SMELL
+_squid:S11481"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ô†²–ü+HÒ	RMINORZVULNERABILITY
+q
+squid:S106 "9Replace this use of System.out or System.err by a logger.(±ˆ•æøÿÿÿÿ8ü†½ü+HĞ	RMAJORZ
+CODE_SMELL
+q
+squid:S106!"9Replace this use of System.out or System.err by a logger.(â»•æúÿÿÿÿ8ìĞÍŸü+Hâ	RMAJORZ
+CODE_SMELL
+l
+squid:S106*"9Replace this use of System.out or System.err by a logger.(àå¢º8¨İÆ ü+Hø	RMAJORZ
+CODE_SMELL
+¸squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“­­Ì8·£³‡ü+HÀRCRITICALZ
+CODE_SMELL
+q
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Ößò’üÿÿÿÿ8ø·±–ü+Hì	RMAJORZ
+CODE_SMELL
+l
+squid:S106,"9Replace this use of System.out or System.err by a logger.(şã¥Ï8Ôˆ¥Ÿü+Hö	RMAJORZ
+CODE_SMELL
