@@ -1,11 +1,13 @@
 package equals;
 
+import checkers.javari.quals.ReadOnly;
+
 public class IdealBlochEquals {
     public int fieldInt = 10;
     public String fieldString = "StringField";
 
     @Override
-    public boolean equals(Object anotherObj) {
+    public boolean equals(@ReadOnly Object anotherObj) {
 
 	if (this == anotherObj) {
 	    return this == null ? anotherObj == null : this == anotherObj;
@@ -26,5 +28,11 @@ public class IdealBlochEquals {
 	int result = 17;
 	result = result * 31 + this.fieldInt + fieldString.hashCode();
 	return result;
+    }
+
+    @Override
+    public String toString() {
+
+	return super.toString();
     }
 }
