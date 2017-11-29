@@ -1,34 +1,34 @@
 
-l
-squid:S106&"9Replace this use of System.out or System.err by a logger.(ÕúîÑ8Ñ ²“ÿ+H¤RMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(®æ¿“8÷ÓË“ÿ+HÄRMAJORZ
+Šsquid:S1450	"QRemove the "ar" field and declare it as a local variable in the relevant methods.(Ø²¥€ùÿÿÿÿ8±Ž½“ÿ+HôRMINORZ
 CODE_SMELL
 q
-squid:S106!"9Replace this use of System.out or System.err by a logger.(Çñ¸ºûÿÿÿÿ8÷ÓË“ÿ+H·RMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(£é ¶ýÿÿÿÿ8ÑÀð“ÿ+HõRMAJORZ
 CODE_SMELL
 q
-squid:S106"9Replace this use of System.out or System.err by a logger.(Íó¦âûÿÿÿÿ8†çò“ÿ+HËRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(Íó¦âûÿÿÿÿ8†çò“ÿ+HöRMAJORZ
 CODE_SMELL
 l
-squid:S106"9Replace this use of System.out or System.err by a logger.(—ÙàÐ8õŒÊ“ÿ+HµRMAJORZ
+squid:S106:"9Replace this use of System.out or System.err by a logger.(é“³½8¦ù´”ÿ+H÷RMAJORZ
+CODE_SMELL
+_squid:S1481"+Remove this unused "delta1" local variable.(§¼Œû8¤êÙ“ÿ+HøRMINORZ
 CODE_SMELL
 l
-squid:S106:"9Replace this use of System.out or System.err by a logger.(é“³½8¦ù´”ÿ+HòRMAJORZ
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ÕúîÑ8Ñ ²“ÿ+HùRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(æÖñô8œÎ·“ÿ+HúRMAJORZ
 CODE_SMELL
 q
-squid:S106"9Replace this use of System.out or System.err by a logger.(£é ¶ýÿÿÿÿ8ÑÀð“ÿ+HÉRMAJORZ
-CODE_SMELL
-_squid:S1481"+Remove this unused "delta1" local variable.(§¼Œû8¤êÙ“ÿ+H»RMINORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(º‘Ô‹úÿÿÿÿ8ÂÁÇ“ÿ+HûRMAJORZ
 CODE_SMELL
 q
-squid:S106"9Replace this use of System.out or System.err by a logger.(º‘Ô‹úÿÿÿÿ8ÂÁÇ“ÿ+H´RMAJORZ
-CODE_SMELL
-squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(æÖñô8œÎ·“ÿ+H§RMAJORZ
-CODE_SMELL
-Šsquid:S1450	"QRemove the "ar" field and declare it as a local variable in the relevant methods.(Ø²¥€ùÿÿÿÿ8±Ž½“ÿ+HªRMINORZ
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Çñ¸ºûÿÿÿÿ8÷ÓË“ÿ+HüRMAJORZ
 CODE_SMELL
 l
-squid:S106+"9Replace this use of System.out or System.err by a logger.(ÕúîÑ8§º˜”ÿ+HÑRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(®æ¿“8÷ÓË“ÿ+HýRMAJORZ
+CODE_SMELL
+l
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ÕúîÑ8§º˜”ÿ+HþRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(—ÙàÐ8õŒÊ“ÿ+HÿRMAJORZ
 CODE_SMELL
