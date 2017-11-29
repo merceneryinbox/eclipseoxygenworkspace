@@ -1,0 +1,9 @@
+
+dsquid:S1481"+Remove this unused "fields" local variable.(äÕı‰ùÿÿÿÿ8ë¦ÇÆ€,HŒRMINORZ
+CODE_SMELL
+ssquid:S1854":Remove this useless assignment to local variable "fields".(äÕı‰ùÿÿÿÿ8ë¦ÇÆ€,HRMAJORZ
+CODE_SMELL
+Qsquid:S1118"Hide this public constructor.(çƒ¥“8º›™º€,HÍRMAJORZ
+CODE_SMELL
+±squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(çƒ¥“HÇRCRITICALZ
+CODE_SMELL
