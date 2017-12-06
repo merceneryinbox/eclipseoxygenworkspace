@@ -1,0 +1,13 @@
+
+lsquid:S1858-"A"getName" returns a string, there's no need to call "toString()".(à∂î5HORMINORZ
+CODE_SMELL
+]squid:S2440",Remove this instantiation of "ClassForTest".(––≥æ˘ˇˇˇˇHMRMAJORZ
+CODE_SMELL
+d
+squid:S1063"9Replace this use of System.out or System.err by a logger.(¨ıªHQRMAJORZ
+CODE_SMELL
+d
+squid:S1065"9Replace this use of System.out or System.err by a logger.(•˚ê•HNRMAJORZ
+CODE_SMELL
+Fsquid:S1220""Move this file to a named package.HPRMINORZ
+CODE_SMELL

@@ -1,9 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<<<<<<< HEAD
 <typeInfoHistroy/>
-=======
-<typeInfoHistroy>
-<typeInfo handle="=cloningLab/C:\/Program Files\/Java\/jdk-9\/lib\/jrt-fs.jar/java.base&lt;java.lang(Cloneable.class[Cloneable" modifiers="1537" timestamp="1504005412112"/>
-<typeInfo handle="=AnnotationProcessorsTest/src&lt;classesForTests{Giraffe.java[Giraffe" modifiers="1" timestamp="1511864715581"/>
-</typeInfoHistroy>
->>>>>>> bc98473cb0a7154c7692b02baf7d800142a31247

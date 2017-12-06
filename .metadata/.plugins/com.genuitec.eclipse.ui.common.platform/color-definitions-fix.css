@@ -1013,17 +1013,6 @@ IEclipsePreferences#eclihx-ui {
 		'hx_editor_brace_color=208,208,208'
 		'hx_editor_multiline_comment_color=0,224,0'
 }
-IEclipsePreferences#goclipse {
-	preferences:
-		'syntax_highlighting_primitive_color=255,255,0'
-		'syntax_highlighting_multiline_string_color=220,120,220'
-		'syntax_highlighting_comment_color=0,224,0'
-		'syntax_highlighting_text_color=208,208,208'
-		'syntax_highlighting_keyword_color=0,208,208'
-		'syntax_highlighting_string_color=220,120,220'
-		'syntax_highlighting_value_color=255,255,0'
-		'syntax_highlighting_builtin_function_color=208,208,208'
-}
 IEclipsePreferences#jp-gr-java_conf-ussiy-app-propedit {
 	preferences:
 		'separatorColor=208,208,208'
@@ -1745,16 +1734,6 @@ IEclipsePreferences#org-eclipse-e4-CSS {
 		'org.eclipse.e4.CSS.syntaxColorer.tokenStyles.string.color=220,120,220'
 		'org.eclipse.e4.CSS.syntaxColorer.tokenStyles.ClassID.color=208,208,208'
 }
-IEclipsePreferences#org-eclipse-emf-mwe2-language-ui {
-	preferences:
-		'syntaxColorer.deprecated_element.color=171,31,54'
-		'syntaxColorer.deprecated_element.style=536870912'
-		'syntaxColorer.feature_ref.color=18,144,195'
-		'syntaxColorer.property_ref.color=102,225,248'
-		'syntaxColorer.property_ref.style=2'
-		'syntaxColorer.string_prop_ref.color=167,236,33'
-		'syntaxColorer.string_prop_ref.style=1'
-}
 IEclipsePreferences#org-eclipse-jdt-ui {
 	preferences:
 		'content_assist_completion_replacement_background=200,200,0'
@@ -2429,16 +2408,6 @@ IEclipsePreferences#org-eclipse-xtend-core-Xtend {
 		'org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.xbase.static.field.color=239,192,144'
 		'AbstractTextEditor.Color.Background=28,31,34'
 }
-IEclipsePreferences#org-eclipse-xtend-ide {
-	preferences:
-		'syntaxColorer.xtend.active.annotation.color=171,48,0'
-		'syntaxColorer.xtend.insignificant.template.text.color=23,198,163'
-		'syntaxColorer.xtend.potential.line.break.color=23,198,163'
-		'syntaxColorer.xtend.richText.bgColor=80,80,80'
-		'syntaxColorer.xtend.richText.color=23,198,163'
-		'syntaxColorer.xtend.template.line.bgColor=80,80,80'
-		'syntaxColorer.xtend.template.line.break.color=23,198,163'
-}
 IEclipsePreferences#org-eclipse-xtext-ui {
 	preferences:
 		'syntaxColorer.comment.color=98,98,98'
@@ -2460,16 +2429,6 @@ IEclipsePreferences#org-eclipse-xtext-ui {
 		'syntaxColorer.xbase.static.field.style=2'
 		'syntaxColorer.xbase.static.method.invocation.color=150,236,63'
 		'syntaxColorer.xbase.static.method.invocation.style=2'
-}
-IEclipsePreferences#org-eclipse-xtext-xtext-ui {
-	preferences:
-		'syntaxColorer.DataTypeIndicator.color=141,218,248'
-		'syntaxColorer.NeverCalledRule.color=128,128,128'
-		'syntaxColorer.RuleDeclaration.color=18,144,195'
-		'syntaxColorer.SpecialFeature.color=171,48,0'
-		'syntaxColorer.TypeReference.color=102,225,248'
-		'syntaxColorer.TypeReference.style=2'
-		'syntaxColorer.UnusedValue.color=128,128,128'
 }
 IEclipsePreferences#org-epic-perleditor {
 	preferences:

@@ -1,14 +1,12 @@
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=bc98473cb0a7154c7692b02baf7d800142a31247
 applyBackground=false
-approved.defs.file.last.changed.time=1511907343000
+approved.defs.file.last.changed.time=1512058756000
 eclipse.preferences.version=1
 iconcolormode=primary
-<<<<<<< HEAD
-last.download.attempt.time=1511973597551
-lastConfiguration=1.51197455727E12
-=======
-last.download.attempt.time=1511863931248
-lastConfiguration=1.509729875612E12
->>>>>>> bc98473cb0a7154c7692b02baf7d800142a31247
+last.download.attempt.time=1511995413078
+lastConfiguration=1.512550754521E12
 newinstall=false
 showWelcomeDialog=false
 workbench.theme=Dark Gray
