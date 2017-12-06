@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dtdComment=\#00E000 | null | null | null | null | null
 dtdData=\#D0D0D0 | null | null | null | null | null
 dtdDefault=\#D0D0D0 | null | null | null | null | null
@@ -6,5 +7,15 @@ dtdString=\#DC78DC | null | null | null | null | null
 dtdSymbol=\#BED6FF | null | null | null | null | null
 dtdTag=\#BED6FF | null | null | null | null | null
 dtdTagName=\#BED6FF | null | null | null | null | null
+=======
+dtdComment=\#8C3FC8 | null | null | null | null | null
+dtdData=\#FFFFFF | null | null | null | null | null
+dtdDefault=\#FFFFFF | null | null | null | null | null
+dtdKeyword=\#EC691E | null | null | null | null | null
+dtdString=\#477488 | null | null | null | null | null
+dtdSymbol=\#357A8F | null | null | null | null | null
+dtdTag=\#357A92 | null | null | null | null | null
+dtdTagName=\#357A92 | null | null | null | null | null
+>>>>>>> work
 eclipse.preferences.version=1
 overriddenByCSS=,dtdKeyword,dtdTag,dtdString,dtdTagName,dtdDefault,dtdData,dtdSymbol,dtdComment,

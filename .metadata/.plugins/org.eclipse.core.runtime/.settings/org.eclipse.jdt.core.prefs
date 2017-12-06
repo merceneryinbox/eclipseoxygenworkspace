@@ -21,7 +21,10 @@ org.eclipse.jdt.core.codeComplete.staticFinalFieldPrefixes=
 org.eclipse.jdt.core.codeComplete.staticFinalFieldSuffixes=
 org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
 org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+<<<<<<< HEAD
 org.eclipse.jdt.core.compiler.codegen.methodParameters=generate
+=======
+>>>>>>> work
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=9
 org.eclipse.jdt.core.compiler.compliance=9
 org.eclipse.jdt.core.compiler.problem.assertIdentifier=error

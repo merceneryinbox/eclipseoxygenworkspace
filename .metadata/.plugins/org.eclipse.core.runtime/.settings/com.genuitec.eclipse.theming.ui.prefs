@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
 >>>>>>>=bc98473cb0a7154c7692b02baf7d800142a31247
@@ -7,6 +8,14 @@ eclipse.preferences.version=1
 iconcolormode=primary
 last.download.attempt.time=1511995413078
 lastConfiguration=1.512550754521E12
+=======
+applyBackground=false
+approved.defs.file.last.changed.time=1507839272000
+eclipse.preferences.version=1
+iconcolormode=primary
+last.download.attempt.time=1511015601136
+lastConfiguration=1.509729875612E12
+>>>>>>> work
 newinstall=false
 showWelcomeDialog=false
 workbench.theme=Dark Gray

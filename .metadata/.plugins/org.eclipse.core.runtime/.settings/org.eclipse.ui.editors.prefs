@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
 >>>>>>>=bc98473cb0a7154c7692b02baf7d800142a31247
@@ -17,6 +18,9 @@ breakpointIndicationColor=51,119,193
 currentIPColor=32,32,48
 currentLineColor=50,57,62
 deletionIndicationColor=255,255,255
+=======
+AbstractTextEditor.Color.Background=28,31,34
+>>>>>>> work
 eclipse.preferences.version=1
 filteredSearchResultIndicationColor=27,98,145
 findBlockColor=255,165,0

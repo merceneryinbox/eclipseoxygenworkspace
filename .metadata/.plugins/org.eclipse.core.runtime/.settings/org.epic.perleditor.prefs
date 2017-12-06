@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 AbstractTextEditor.Color.Background=28,31,34
 AbstractTextEditor.Color.Background.SystemDefault=false
 AbstractTextEditor.Color.BackgroundBold=false
@@ -50,3 +51,34 @@ variableColor=121,171,255
 variableColorBold=false
 warningIndicationColor=220,120,220
 warningIndicationColorBold=false
+=======
+AbstractTextEditor.Color.Background=25,25,25
+AbstractTextEditor.Color.Background.SystemDefault=false
+AbstractTextEditor.Color.Foreground=255,255,255
+AbstractTextEditor.Color.Foreground.SystemDefault=false
+bookmarkIndicationColor=129,69,130
+comment1Color=129,70,162
+comment2Color=140,63,200
+currentLineColor=34,34,32
+eclipse.preferences.version=1
+errorIndicationColor=156,248,40
+errorIndicationColorBold=false
+functionColor=247,197,39
+invalidColor=255,255,255
+keyword1Color=236,105,30
+keyword2Color=247,197,39
+labelColor=255,255,255
+lineNumberColor=102,102,102
+literal1Color=71,116,136
+literal2Color=71,116,136
+markupColor=255,255,255
+numberColor=71,116,136
+operatorColor=255,255,255
+othersIndicationColor=255,255,255
+overriddenByCSS=,AbstractTextEditor.Color.Background.SystemDefault,lineNumberColor,bookmarkIndicationColor,errorIndicationColorBold,warningIndicationColor,literal1Color,currentLineColor,comment2Color,othersIndicationColor,keyword2Color,taskIndicationColor,markupColor,AbstractTextEditor.Color.Background,literal2Color,keyword1Color,AbstractTextEditor.Color.Foreground,printMarginColor,variableColor,AbstractTextEditor.Color.Foreground.SystemDefault,labelColor,searchResultIndicationColor,functionColor,operatorColor,invalidColor,numberColor,errorIndicationColor,comment1Color,
+printMarginColor=102,102,102
+searchResultIndicationColor=0,0,0
+taskIndicationColor=128,0,128
+variableColor=60,117,141
+warningIndicationColor=71,116,136
+>>>>>>> work

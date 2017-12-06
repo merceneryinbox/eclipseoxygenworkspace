@@ -3,10 +3,21 @@
 	<item value="JavaSE-9" key="org.eclipse.jdt.ui.last.selected.execution.enviroment"/>
 	<section name="org.eclipse.ltk.ui.refactoring.settings">
 	</section>
+<<<<<<< HEAD
 	<section name="SelfEncapsulateFieldWizard">
 		<item value="true" key="GenerateJavadoc"/>
 	</section>
 	<section name="ProblemSeveritiesConfigurationBlock">
+=======
+	<section name="RefactoringWizard.preview">
+		<item value="600" key="width"/>
+		<item value="400" key="height"/>
+	</section>
+	<section name="SelfEncapsulateFieldWizard">
+		<item value="true" key="GenerateJavadoc"/>
+	</section>
+	<section name="JavaBuildConfigurationBlock">
+>>>>>>> work
 		<item value="false" key="expanded2"/>
 		<item value="false" key="expanded1"/>
 		<item value="false" key="expanded4"/>
@@ -44,7 +55,13 @@
 	</section>
 	<section name="NewClassWizardPage">
 		<item value="false" key="create_constructor"/>
+<<<<<<< HEAD
 		<item value="false" key="create_unimplemented"/>
+=======
+		<item value="true" key="create_unimplemented"/>
+>>>>>>> work
+	</section>
+	<section name="RenameInformationPopup">
 	</section>
 	<section name="OptionalMessageDialog.hide.">
 		<item value="true" key="org.eclipse.jdt.ui.typecomment.deprecated"/>

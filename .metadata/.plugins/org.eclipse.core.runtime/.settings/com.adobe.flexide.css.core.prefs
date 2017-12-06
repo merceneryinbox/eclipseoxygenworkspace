@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 cssCommentBold=false
 cssCommentColor=\#00E000
 cssCommentItalic=false
@@ -53,5 +54,19 @@ cssTextColor=\#D0D0D0
 cssTextItalic=false
 cssTextStrikethrough=false
 cssTextUnderline=false
+=======
+cssCommentColor=\#8C3FC8
+cssCommentItalic=false
+cssFontFaceColor=\#EC691E
+cssImportColor=\#EC691E
+cssMediaColor=\#EC691E
+cssNamespaceColor=\#FFFFFF
+cssPropertyNameColor=\#357A8F
+cssPropertyValueColor=\#477488
+cssSelectorColor=\#3C758D
+cssStringColor=\#477488
+cssSymbolColor=\#EC691E
+cssTextColor=\#FFFFFF
+>>>>>>> work
 eclipse.preferences.version=1
 overriddenByCSS=,cssNamespaceStrikethrough,cssImportBold,cssFontFaceBold,cssPropertyValueItalic,cssTextColor,cssStringColor,cssSymbolColor,cssSelectorItalic,cssTextStrikethrough,cssMediaItalic,cssStringItalic,cssStringUnderline,cssStringBold,cssStringStrikethrough,cssPropertyNameStrikethrough,cssMediaBold,cssImportItalic,cssCommentBold,cssNamespaceItalic,cssPropertyValueBold,cssTextUnderline,cssFontFaceItalic,cssSymbolStrikethrough,cssMediaStrikethrough,cssPropertyNameItalic,cssCommentStrikethrough,cssNamespaceColor,cssImportUnderline,cssPropertyValueColor,cssMediaColor,cssTextBold,cssFontFaceStrikethrough,cssMediaUnderline,cssSelectorStrikethrough,cssPropertyNameBold,cssNamespaceUnderline,cssSelectorColor,cssImportColor,cssPropertyValueStrikethrough,cssFontFaceColor,cssCommentColor,cssImportStrikethrough,cssCommentItalic,cssSymbolItalic,cssPropertyValueUnderline,cssTextItalic,cssNamespaceBold,cssCommentUnderline,cssSymbolUnderline,cssPropertyNameColor,cssFontFaceUnderline,cssSelectorUnderline,cssPropertyNameUnderline,cssSelectorBold,cssSymbolBold,

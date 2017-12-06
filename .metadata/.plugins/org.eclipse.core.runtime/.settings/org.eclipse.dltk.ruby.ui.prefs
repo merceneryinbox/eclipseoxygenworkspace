@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 DLTK_comment_task_tag=0,255,0
 DLTK_comment_task_tag_bold=false
 DLTK_comment_task_tag_italic=false
@@ -11,11 +12,19 @@ DLTK_default_underline=false
 DLTK_doc=204,223,50
 DLTK_doc.topic=217,229,119
 DLTK_doc.topic_bold=false
+=======
+DLTK_comment_task_tag=128,0,128
+DLTK_comment_task_tag_italic=false
+DLTK_default=255,255,255
+DLTK_doc=140,63,200
+DLTK_doc.topic=128,0,128
+>>>>>>> work
 DLTK_doc.topic_italic=false
 DLTK_doc.topic_strikethrough=false
 DLTK_doc.topic_underline=false
 DLTK_doc_bold=false
 DLTK_doc_italic=false
+<<<<<<< HEAD
 DLTK_doc_strikethrough=false
 DLTK_doc_underline=false
 DLTK_keyword=0,208,208
@@ -93,20 +102,48 @@ sourceHoverBackgroundColor_strikethrough=false
 sourceHoverBackgroundColor_underline=false
 variable=121,171,255
 variable.class=255,128,128
+=======
+DLTK_keyword=236,105,30
+DLTK_keyword_return=236,105,30
+DLTK_number=71,116,136
+DLTK_single_line_comment=129,70,162
+DLTK_single_line_comment_italic=false
+DLTK_string=71,116,136
+DLTK_string.eval=71,116,136
+DLTK_string.regexp=71,116,136
+const=128,255,0
+content_assist_completion_replacement_background=25,25,25
+content_assist_completion_replacement_foreground=255,255,255
+content_assist_parameters_background=25,25,25
+content_assist_parameters_foreground=255,255,255
+eclipse.preferences.version=1
+overriddenByCSS=,const,content_assist_parameters_foreground,DLTK_number,variable.class,DLTK_single_line_comment,DLTK_comment_task_tag_italic,variable.class_underline,DLTK_doc.topic_italic,DLTK_keyword,variable.class_strikethrough,DLTK_string.regexp,sourceHoverBackgroundColor.SystemDefault,content_assist_completion_replacement_background,DLTK_default,content_assist_completion_replacement_foreground,DLTK_keyword_return,sourceHoverBackgroundColor,DLTK_string.eval,variable.instance_bold,content_assist_parameters_background,DLTK_single_line_comment_italic,ruby.symbols,variable.class_bold,variable.pseudo,DLTK_doc.topic,DLTK_string,variable.global,DLTK_doc_italic,variable.instance_strikethrough,DLTK_doc,variable,DLTK_comment_task_tag,variable.instance,variable.instance_underline,
+ruby.symbols=53,122,143
+sourceHoverBackgroundColor=0,0,0
+sourceHoverBackgroundColor.SystemDefault=false
+variable=60,117,141
+variable.class=156,248,40
+>>>>>>> work
 variable.class_bold=false
 variable.class_italic=false
 variable.class_strikethrough=false
 variable.class_underline=false
+<<<<<<< HEAD
 variable.global=239,192,144
 variable.global_bold=false
 variable.global_italic=false
 variable.global_strikethrough=false
 variable.global_underline=false
 variable.instance=255,128,128
+=======
+variable.global=255,255,255
+variable.instance=156,248,40
+>>>>>>> work
 variable.instance_bold=false
 variable.instance_italic=false
 variable.instance_strikethrough=false
 variable.instance_underline=false
+<<<<<<< HEAD
 variable.pseudo=121,171,255
 variable.pseudo_bold=false
 variable.pseudo_italic=false
@@ -116,3 +153,6 @@ variable_bold=false
 variable_italic=false
 variable_strikethrough=false
 variable_underline=false
+=======
+variable.pseudo=60,117,141
+>>>>>>> work

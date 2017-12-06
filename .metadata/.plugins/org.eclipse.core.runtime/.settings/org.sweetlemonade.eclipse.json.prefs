@@ -1,31 +1,50 @@
-colorArrayBracket=121,171,255
+colorArrayBracket=60,117,141
 colorArrayBracketEnabled=true
 colorArrayBracketStyle=0
+<<<<<<< HEAD
 colorBoolean=0,208,208
+=======
+colorBoolean=236,105,30
+>>>>>>> work
 colorBooleanEnabled=true
 colorBooleanStyle=0
-colorBracket=121,171,255
+colorBracket=60,117,141
 colorBracketEnabled=true
 colorBracketStyle=0
+<<<<<<< HEAD
 colorDefault=208,208,208
+=======
+colorDefault=255,255,255
+>>>>>>> work
 colorDefaultEnabled=true
 colorDefaultStyle=0
-colorKey=190,214,255
+colorKey=53,122,143
 colorKeyEnabled=true
 colorKeyStyle=0
-colorMatchBracket=121,171,255
+colorMatchBracket=60,117,141
 colorMatchBracketEnabled=true
 colorMatchBracketStyle=0
+<<<<<<< HEAD
 colorNull=0,208,208
 colorNullEnabled=true
 colorNullStyle=0
 colorNumber=255,255,0
+=======
+colorNull=236,105,30
+colorNullEnabled=true
+colorNullStyle=0
+colorNumber=71,116,136
+>>>>>>> work
 colorNumberEnabled=true
 colorNumberStyle=0
-colorObjectBracket=121,171,255
+colorObjectBracket=60,117,141
 colorObjectBracketEnabled=true
 colorObjectBracketStyle=0
+<<<<<<< HEAD
 colorString=220,120,220
+=======
+colorString=71,116,136
+>>>>>>> work
 colorStringEnabled=true
 colorStringStyle=0
 eclipse.preferences.version=1

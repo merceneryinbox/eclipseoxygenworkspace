@@ -1,9 +1,16 @@
+<<<<<<< HEAD
 charColor=220,120,220
 commentColor=0,224,0
 conColor=255,128,128
+=======
+charColor=71,116,136
+commentColor=129,70,162
+conColor=156,248,40
+>>>>>>> work
 cppColor=255,255,255
-docColor=204,223,50
+docColor=140,63,200
 eclipse.preferences.version=1
+<<<<<<< HEAD
 functionColor=208,208,208
 keywordColor=0,208,208
 literateCommentColor=0,224,0
@@ -15,3 +22,16 @@ symbolColor=208,208,208
 thColor=255,255,255
 varColor=208,208,208
 varSymColor=208,208,208
+=======
+functionColor=255,255,255
+keywordColor=236,105,30
+literateCommentColor=140,63,200
+overriddenByCSS=,conColor,thColor,sourceHoverBackgroundColor,symbolColor,keywordColor,literateCommentColor,varSymColor,varColor,functionColor,cppColor,docColor,charColor,commentColor,pragmaColor,stringColor,
+pragmaColor=140,63,200
+sourceHoverBackgroundColor=0,0,0
+stringColor=71,116,136
+symbolColor=255,255,255
+thColor=255,255,255
+varColor=255,255,255
+varSymColor=255,255,255
+>>>>>>> work

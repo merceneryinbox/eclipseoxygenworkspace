@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+<<<<<<< HEAD
 		<item value="D:\eclipseworkspace"/>
 		<item value="D:\eclipseworkspace\GradleFlowerHallProjectFromGit\flowers-hall"/>
 	</list>
@@ -20,6 +21,10 @@
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
 		</list>
 	</section>
+=======
+		<item value="D:\eclipseworkspace\GradleFlowerHallProjectFromGit\flowers-hall"/>
+	</list>
+>>>>>>> work
 	<section name="org.eclipse.ui.internal.views.markers.FiltersConfigurationDialog">
 	</section>
 </section>

@@ -97,6 +97,7 @@ java.net.UnknownHostException: repo.maven.apache.org
 2017-11-18 17:33:21,183 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2017-11-18 17:33:23,267 [Worker-5] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
 2017-11-18 17:35:14,570 [Worker-5] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|https://repo.maven.apache.org/maven2 in 111303 ms
+<<<<<<< HEAD
 2017-11-19 16:31:14,053 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2017-11-19 16:31:16,394 [Worker-2] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
 2017-11-19 16:31:32,064 [Worker-2] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|https://repo.maven.apache.org/maven2 in 15670 ms
@@ -343,3 +344,5 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact junit:junit:j
 2017-12-06 11:59:57,397 [Worker-5] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
 2017-12-06 12:00:10,776 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tetsPro:smpleMavenWeb:0.0.1-SNAPSHOT @ D:\eclipseworkspace\smpleMavenWeb\pom.xml.
 2017-12-06 12:00:13,220 [Worker-5] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|https://repo.maven.apache.org/maven2 in 15824 ms
+=======
+>>>>>>> work

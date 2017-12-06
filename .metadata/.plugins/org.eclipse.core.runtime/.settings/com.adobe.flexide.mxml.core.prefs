@@ -1,9 +1,14 @@
+<<<<<<< HEAD
 asASDocBold=false
 asASDocColor=\#CCDF32
+=======
+asASDocColor=\#8C3FC8
+>>>>>>> work
 asASDocItalic=false
 asASDocStrikethrough=false
 asASDocUnderline=false
 eclipse.preferences.version=1
+<<<<<<< HEAD
 mxmlCommentBold=false
 mxmlCommentColor=\#00E000
 mxmlCommentItalic=false
@@ -35,3 +40,13 @@ mxmlTextItalic=false
 mxmlTextStrikethrough=false
 mxmlTextUnderline=false
 overriddenByCSS=,mxmlProcessingInstructionStrikethrough,mxmlProcessingInstructionBold,mxmlTextBold,mxmlComponentTagStrikethrough,mxmlTextUnderline,asASDocItalic,mxmlProcessingInstructionUnderline,mxmlTagColor,asASDocColor,mxmlCommentStrikethrough,mxmlComponentTagItalic,mxmlCommentItalic,mxmlTagUnderline,mxmlComponentTagBold,mxmlStringColor,mxmlTagBold,mxmlProcessingInstructionItalic,mxmlStringBold,mxmlStringUnderline,mxmlTextStrikethrough,mxmlCommentUnderline,mxmlStringItalic,asASDocUnderline,mxmlProcessingInstructionColor,mxmlStringStrikethrough,mxmlComponentTagColor,asASDocBold,mxmlTagStrikethrough,mxmlTextColor,mxmlTextItalic,mxmlTagItalic,asASDocStrikethrough,mxmlComponentTagUnderline,mxmlCommentColor,mxmlCommentBold,
+=======
+mxmlCommentColor=\#8C3FC8
+mxmlCommentItalic=false
+mxmlComponentTagColor=\#357A8F
+mxmlProcessingInstructionColor=\#F7C527
+mxmlStringColor=\#477488
+mxmlTagColor=\#3C758D
+mxmlTextColor=\#FFFFFF
+overriddenByCSS=,mxmlTagColor,mxmlTextColor,asASDocColor,mxmlCommentItalic,mxmlProcessingInstructionColor,asASDocItalic,mxmlCommentColor,mxmlStringColor,mxmlComponentTagColor,
+>>>>>>> work
