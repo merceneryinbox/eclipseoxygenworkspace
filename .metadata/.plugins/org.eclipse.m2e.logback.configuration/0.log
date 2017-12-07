@@ -346,3 +346,6 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact junit:junit:j
 2017-12-06 12:00:13,220 [Worker-5] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|https://repo.maven.apache.org/maven2 in 15824 ms
 =======
 >>>>>>> work
+2017-12-07 12:27:18,632 [Worker-9] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-12-07 12:27:21,255 [Worker-4] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2017-12-07 12:28:01,997 [Worker-4] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|https://repo.maven.apache.org/maven2 in 40743 ms
